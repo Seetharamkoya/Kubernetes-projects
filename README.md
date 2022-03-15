@@ -1,5 +1,5 @@
 # Kubernetes-projects
-Hands on projects on Kubernetes
+summery of notes and hands on projects from Kubernetes Enterprise Guide
 
 ## Kubernetes Traditional cluster setup
 > Step 1: Create k8s cluster in 3 node lab setup (1 master & 2 worker node)
